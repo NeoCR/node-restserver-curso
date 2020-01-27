@@ -1,4 +1,0 @@
-admnode
-Ez6r5RqvHOF01h12
-
-mongodb+srv://admnode:Ez6r5RqvHOF01h12@nodejs-shk33.mongodb.net/cafe
